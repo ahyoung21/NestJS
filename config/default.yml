@@ -1,0 +1,7 @@
+server:
+  port: 3012
+
+db:
+  type: 'postgres'
+  port: 5432
+  database: 'ay-app'
